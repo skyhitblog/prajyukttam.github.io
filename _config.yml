@@ -4,48 +4,15 @@
 title: Prajyukttam
 description: |
   Explore. Innovate. Inspire.
+
 owner: Avi # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
 email: prajyukttam@dbuniversity.ac.in
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://prajyukttam.com" # the base hostname & protocol for your site
 social:
-  facebook-official: http://facebook.com/prajyukttam
+  facebook-official: https://facebook.com/prajyukttam
   email: mailto:prajyukttam@dbuniversity.ac.in
-  instagram: http://instagram.com/prajyukttam
-
-  #flickr:
-  #youtube-square:
-  #spotify:
-  #stack-overflow:
-  #vimeo:
-  #reddit:
-  #stubleupon:
-  #delicious:
-  #pied-piper:
-  #digg:
-  #soundcloud:
-  #deviantart:
-  #angellist:
-  #tumblr-square:
-  #stackexchange:
-  #weibo:
-  #trello:
-  #foursquare:
-  #linux:
-  #bitbucket-square:
-  #vk:
-  #slack:
-  #vine:
-  #weixin:
-  #yelp:
-  #skyatlas:
-  #leanpub:
-  #connectdevelop:
-  #ils:
-  #forumbee:
-  #tripadvisor:
-  #amazon:
 
 # Build settings
 markdown: kramdown
