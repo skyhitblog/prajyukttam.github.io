@@ -10,14 +10,10 @@ email: prajyukttam@dbuniversity.ac.in
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://prajyukttam.com" # the base hostname & protocol for your site
 social:
-  twitter: https://twitter.com/<username>
-  github: https://github.com/skyhitblog
-  linkedin-square: https://linkedin.com/in/<username>
-  facebook-official: https://facebook.com/prajyukttam
-  google-plus-square: https://plus.google.com/u/0/+<username>
-  #email: /contact/
+  facebook-official: http://facebook.com/prajyukttam
+  instagram: http://instagram.com/prajyukttam
+  email: mailto:prajyukttam@dbuniversity.ac.in
   #flickr:
-  #instagram:
   #youtube-square:
   #spotify:
   #stack-overflow:
