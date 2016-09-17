@@ -11,8 +11,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://prajyukttam.com" # the base hostname & protocol for your site
 social:
   facebook-official: http://facebook.com/prajyukttam
-  instagram: http://instagram.com/prajyukttam
   email: mailto:prajyukttam@dbuniversity.ac.in
+  instagram: http://instagram.com/prajyukttam
+
   #flickr:
   #youtube-square:
   #spotify:
